@@ -1,4 +1,4 @@
-Algoritmo "PREÇO MAÇAS"
+Algoritmo "PREÃ‡O MAÃ‡AS"
 
 Var
    Quantidade : Inteiro
@@ -7,7 +7,7 @@ Var
 
 Inicio
 
-      Escreva (" Digite a quantidade de maças :")
+      Escreva (" Digite a quantidade de maÃ§as :")
       Leia (Quantidade)
       
  Se Quantidade < 12 entao
