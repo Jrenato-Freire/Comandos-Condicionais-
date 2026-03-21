@@ -6,7 +6,7 @@ Matricula - 01874390
 
 Matricula - 01898470
 ---------------------------------
-3- Lucas Silva Conçeição
+3- Lucas Silva Conceição
 
 Matricula - 01887741
 ---------------------------------
